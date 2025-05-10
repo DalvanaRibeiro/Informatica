@@ -2,3 +2,8 @@
 
 ## Aula 1 🖥️:
 Link: https://www.canva.com/design/DAGXltxu68A/8wnO9wrpPo8gSl1auH1ziQ/edit?utm_content=DAGXltxu68A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+## Aula 2 😁:
+
+Link: https://www.canva.com/design/DAGmVn3DAL8/SBUpe_pPYQ7wlKzDO6As3A/edit?utm_content=DAGmVn3DAL8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
