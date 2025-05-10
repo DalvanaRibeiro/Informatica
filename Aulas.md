@@ -14,3 +14,5 @@ Link: https://www.canva.com/design/DAGmVn3DAL8/SBUpe_pPYQ7wlKzDO6As3A/edit?utm_c
 
 
 Link Atividade: https://quizizz.com/admin/quiz/67a0e6a9b3bbab964f1d39f8?source=quiz_share
+
+Outro link para atividade: https://quizizz.com/print/quiz/67a0e6a9b3bbab964f1d39f8?source=worksheet_share
