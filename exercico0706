@@ -7,38 +7,83 @@ Agora você precisa fazer  o controle de estoque do **Supermercado**. O respons�
 
 
 ---
-
-## 🧾 Informações dos Produtos Comprados
+## 🧾 Informações dos Produtos Comprados – Pedido para Supermercado Gigante
 
 1. **Sabão em pó (1kg)**  
    - Preço unitário: **R$11,50**  
-   - Quantidade comprada: **2 unidades**  
-   - Total anotado: **R$20,00**
+   - Quantidade comprada: **200 unidades**  
+   - Total anotado: **R$2.300,00**
 
 2. **Detergente (500ml)**  
    - Preço unitário: **R$2,30**  
-   - Quantidade comprada: **6 unidades**  
-   - Total anotado: **R$13,80**
+   - Quantidade comprada: **600 unidades**  
+   - Total anotado: **R$1.380,00**
 
 3. **Água sanitária (1L)**  
    - Preço unitário: **R$3,20**  
-   - Quantidade comprada: **4 unidades**  
-   - Total anotado: **R$10,40**
+   - Quantidade comprada: **400 unidades**  
+   - Total anotado: **R$1.280,00**
 
 4. **Desinfetante (2L)**  
    - Preço unitário: **R$6,90**  
-   - Quantidade comprada: **3 unidades**  
-   - Total anotado: **R$18,70**
+   - Quantidade comprada: **300 unidades**  
+   - Total anotado: **R$2.070,00**
 
 5. **Esponja (unidade)**  
    - Preço unitário: **R$1,50**  
-   - Quantidade comprada: **5 unidades**  
-   - Total anotado: **R$9,00**
+   - Quantidade comprada: **500 unidades**  
+   - Total anotado: **R$700,00**
 
 6. **Sabonete (unidade)**  
    - Preço unitário: **R$2,20**  
-   - Quantidade comprada: **4 unidades**  
-   - Total anotado: **R$7,00**
+   - Quantidade comprada: **400 unidades**  
+   - Total anotado: **R$880,00**
+
+7. **Álcool em gel (500ml)**  
+   - Preço unitário: **R$5,50**  
+   - Quantidade comprada: **350 unidades**  
+   - Total anotado: **R$1.925,00**
+
+8. **Limpador multiuso (500ml)**  
+   - Preço unitário: **R$4,90**  
+   - Quantidade comprada: **250 unidades**  
+   - Total anotado: **R$1.225,00**
+
+9. **Desentupidor químico (1L)**  
+   - Preço unitário: **R$12,80**  
+   - Quantidade comprada: **150 unidades**  
+   - Total anotado: **R$1.920,00**
+
+10. **Panos de chão (pacote com 3 unidades)**  
+    - Preço unitário: **R$8,70**  
+    - Quantidade comprada: **180 pacotes**  
+    - Total anotado: **R$1.566,00**
+
+11. **Flanela (unidade)**  
+    - Preço unitário: **R$1,90**  
+    - Quantidade comprada: **300 unidades**  
+    - Total anotado: **R$570,00**
+
+12. **Água perfumada (500ml)**  
+    - Preço unitário: **R$9,90**  
+    - Quantidade comprada: **120 unidades**  
+    - Total anotado: **R$1.188,00**
+
+13. **Pastilha sanitária (unidade)**  
+    - Preço unitário: **R$3,70**  
+    - Quantidade comprada: **350 unidades**  
+    - Total anotado: **R$1.295,00**
+
+14. **Escova sanitária**  
+    - Preço unitário: **R$7,80**  
+    - Quantidade comprada: **150 unidades**  
+    - Total anotado: **R$1.140,00**
+
+15. **Desodorizador de ambiente**  
+    - Preço unitário: **R$10,50**  
+    - Quantidade comprada: **200 unidades**  
+    - Total anotado: **R$2.100,00**
+
 
 ---
 
