@@ -1,0 +1,94 @@
+# 🧽 Supermercado Real - Controle de Compras do Setor de Limpeza
+
+## Situação
+
+Agora você precisa fazer  o controle de estoque do **Supermercado**. O responsável pelas compras do setor de **Limpeza** entregou os dados abaixo anotados manualmente. Sua missão é montar uma planilha digital, organizar os dados corretamente e identificar inconsistências.
+
+⚠️ Atenção: alguns totais foram anotados **errados** e precisam ser **corrigidos utilizando fórmulas.**
+
+---
+
+## 🧾 Informações dos Produtos Comprados
+
+1. **Sabão em pó (1kg)**  
+   - Preço unitário: **R$11,50**  
+   - Quantidade comprada: **2 unidades**  
+   - Total anotado: **R$20,00**
+
+2. **Detergente (500ml)**  
+   - Preço unitário: **R$2,30**  
+   - Quantidade comprada: **6 unidades**  
+   - Total anotado: **R$13,80**
+
+3. **Água sanitária (1L)**  
+   - Preço unitário: **R$3,20**  
+   - Quantidade comprada: **4 unidades**  
+   - Total anotado: **R$10,40**
+
+4. **Desinfetante (2L)**  
+   - Preço unitário: **R$6,90**  
+   - Quantidade comprada: **3 unidades**  
+   - Total anotado: **R$18,70**
+
+5. **Esponja (unidade)**  
+   - Preço unitário: **R$1,50**  
+   - Quantidade comprada: **5 unidades**  
+   - Total anotado: **R$9,00**
+
+6. **Sabonete (unidade)**  
+   - Preço unitário: **R$2,20**  
+   - Quantidade comprada: **4 unidades**  
+   - Total anotado: **R$7,00**
+
+---
+
+## 🧠 Tarefa
+
+Monte a seguinte tabela em sua planilha:
+
+| Produto              | Preço Unitário (R$) | Quantidade | Total Anotado (R$) | Total Corrigido (R$) |
+|----------------------|---------------------|------------|---------------------|-----------------------|
+| Sabão em pó (1kg)    |                     |            |                     |                       |
+| Detergente (500ml)   |                     |            |                     |                       |
+| Água sanitária (1L)  |                     |            |                     |                       |
+| Desinfetante (2L)    |                     |            |                     |                       |
+| Esponja (unidade)    |                     |            |                     |                       |
+| Sabonete (unidade)   |                     |            |                     |                       |
+
+---
+
+## 📋 Instruções
+
+1. Preencha a tabela com os dados fornecidos acima.
+2. Na coluna **"Total Corrigido (R$)"**, use a fórmula:  
+   `=Preço Unitário * Quantidade`
+3. Destaque os **totais anotados incorretamente** com **fundo vermelho claro**.
+4. Calcule no final da tabela:
+   - ✅ **Total geral anotado**: `=SOMA(Total Anotado)`
+   - ✅ **Total geral corrigido**: `=SOMA(Total Corrigido)`
+   - ✅ **Diferença**: `=Total Corrigido - Total Anotado`
+5. Faça também:
+   - 💰 **Identifique o produto com maior gasto corrigido**
+   - 📈 **Calcule a média dos preços unitários**
+
+---
+
+## 🧮 Coluna Extra: Valor com Desconto
+
+Adicione uma coluna nova:
+
+**"Valor com Desconto (10%)"**  
+Fórmula: `=Total Corrigido * 0,90`
+
+---
+
+## 🎨 Formatação Condicional
+
+- Destacar em **amarelo** os valores acima de **R$15,00** na coluna "Total Corrigido".
+- Destacar com **borda vermelha** os erros entre valor anotado e corrigido.
+
+---
+
+## 📊 Desafio Extra
+
+- Crie um **gráfico de barras** comparando o **Total Anotado** com o **Total Corrigido** por produto.
