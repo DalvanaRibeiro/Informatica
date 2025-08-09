@@ -27,9 +27,9 @@ Link: https://www.canva.com/design/DAGeJD3wah0/DY2e99DjVQ7MLRlRvg7bUQ/edit?utm_c
 ## Aula: Planilhas e Tabelas ✌️:
 Link: https://www.canva.com/design/DAGYh-Nr0D4/pc_hG6zDApkoQljnLeUSaQ/edit?utm_content=DAGYh-Nr0D4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-## Aula: Trabalhando com Gráficos
+## Aula: Trabalhando com Gráficos 😍
 Link: https://www.canva.com/design/DAGtmku5Lws/3lLW5eBvU5Xh3nzLQx5s1w/edit?utm_content=DAGtmku5Lws&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
-##  Aula: Trabalhando com Apresentações
+##  Aula: Trabalhando com Apresentações 😉
 Link: https://www.canva.com/design/DAGuNUEUl8A/XmOCXmimJL0mfkwcyO60bg/edit?utm_content=DAGuNUEUl8A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
